@@ -47,10 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
 <h4 align="left">BackEnd Dev Tools:</h4>
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -79,14 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" />
-  <br>
-</a>
+
 &nbsp;&nbsp;&nbsp;
 
 <!--
